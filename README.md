@@ -109,4 +109,4 @@ print(result)
 - **Papers**:
   - "Siamese Convolutional Neural Networks for Authorship Verification"
   - "A Robust Approach to Authorship Verification Using Siamese Deep Learning"
-- **Repository**: [Authorship Verification GitHub](https://github.com/yourusername/AuthorVerification)
+
